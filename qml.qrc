@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>resources/qml/SkinButton.qml</file>
+        <file>resources/qml/SkinWindow.qml</file>
+        <file>resources/images/qt-logo.png</file>
+    </qresource>
+</RCC>
